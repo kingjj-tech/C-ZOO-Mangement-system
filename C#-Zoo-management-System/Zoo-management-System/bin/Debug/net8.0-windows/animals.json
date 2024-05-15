@@ -1,0 +1,80 @@
+[
+  {
+    "$type": "Zoo_management_System.Parrot, Zoo-management-System",
+    "Name": "sparrow",
+    "Age": 27,
+    "Weight": 6.0,
+    "AnimalType": 1,
+    "DietInfo": {
+      "FoodType": 4,
+      "FeedingSchedule": "Thrice a day"
+    },
+    "Habitat": 1,
+    "SpeakSound": "tweek tweek"
+  },
+  {
+    "$type": "Zoo_management_System.Lion, Zoo-management-System",
+    "Name": "lion",
+    "Age": 9,
+    "Weight": 11.0,
+    "AnimalType": 0,
+    "DietInfo": {
+      "FoodType": 0,
+      "FeedingSchedule": "Twice a day"
+    },
+    "Habitat": 1,
+    "SpeakSound": "ROAHHH!!"
+  },
+  {
+    "$type": "Zoo_management_System.Parrot, Zoo-management-System",
+    "Name": "sparrow",
+    "Age": 6,
+    "Weight": 8.0,
+    "AnimalType": 1,
+    "DietInfo": {
+      "FoodType": 4,
+      "FeedingSchedule": "Thrice a day"
+    },
+    "Habitat": 0,
+    "SpeakSound": "tweek tweek"
+  },
+  {
+    "$type": "Zoo_management_System.Lion, Zoo-management-System",
+    "Name": "lion",
+    "Age": 21,
+    "Weight": 4.0,
+    "AnimalType": 0,
+    "DietInfo": {
+      "FoodType": 0,
+      "FeedingSchedule": "Twice a day"
+    },
+    "Habitat": 0,
+    "SpeakSound": "ROAH!!!"
+  },
+  {
+    "$type": "Zoo_management_System.Lion, Zoo-management-System",
+    "Name": "Gorrila",
+    "Age": 27,
+    "Weight": 12.0,
+    "AnimalType": 0,
+    "DietInfo": {
+      "FoodType": 0,
+      "FeedingSchedule": "Twice a day"
+    },
+    "Habitat": 1,
+    "SpeakSound": "ohh ohh aahh ahh"
+  },
+  {
+    "$type": "Zoo_management_System.Gorilla, Zoo-management-System",
+    "Name": "clown Fish",
+    "Age": 27,
+    "Weight": 17.0,
+    "AnimalType": 0,
+    "DietInfo": {
+      "FoodType": 3,
+      "FeedingSchedule": "Twice a day"
+    },
+    "Habitat": 2,
+    "SpeakSound": "bloob bloob"
+  }
+]
